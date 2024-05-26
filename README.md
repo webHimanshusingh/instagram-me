@@ -82,5 +82,4 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
+[![linkedin]![Screenshot 2024-05-26 093423](https://github.com/webHimanshusingh/instagram-me/assets/170223793/5dd06d7a-e8ad-4ec3-81ba-de4f5502847b)(https://www.linkedin.com/in/website-himanshu-singh)
