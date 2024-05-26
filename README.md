@@ -23,13 +23,6 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 
 ![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-**Cloud Storage:**
-
-![aws-s3](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
-
-**Mail Service:** [Sendgrid](https://sendgrid.com/)
 
 ## 🚀 Features
 **Authentication and User Management**
@@ -82,4 +75,4 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin]![Screenshot 2024-05-26 093423](https://github.com/webHimanshusingh/instagram-me/assets/170223793/5dd06d7a-e8ad-4ec3-81ba-de4f5502847b)(https://www.linkedin.com/in/website-himanshu-singh)
+[![linkedin]![Screenshot 2024-05-26 093423](https://github.com/webHimanshusingh/instagram-me/assets/170223793/5dd06d7a-e8ad-4ec3-81ba-de4f5502847b)[linkedin](https://www.linkedin.com/in/website-himanshu-singh)
